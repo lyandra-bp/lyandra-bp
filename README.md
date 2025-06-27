@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/ea6a9225-001d-4204-8b1b-caacd67bdf22)
+![github-header-image](https://github.com/user-attachments/assets/d71144f6-67cf-484d-bfdd-fdb44c252ec2)
 
 <!--
 **lyandra-bp/lyandra-bp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
