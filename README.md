@@ -1,5 +1,5 @@
 <header>
-  <img src="github-header-image" alt="Header Image">
+  <img src="lyandra-bp/github-header-image.png" alt="Header Image">
 </header>
      
 
