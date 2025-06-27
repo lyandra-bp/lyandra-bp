@@ -1,7 +1,4 @@
-<header>
-  <img src="lyandra-bp.github.io/github-header-image.png" alt="Header Image">
-</header>
-     
+![github-header-image](https://github.com/user-attachments/assets/ea6a9225-001d-4204-8b1b-caacd67bdf22)
 
 <!--
 **lyandra-bp/lyandra-bp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
